@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CONNECT 4</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">CONNECT 4</string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+
+    <string name="replay">Restart</string>
+    <string name="quit">Quit</string>
+
+    <string name="dialog_quit">Quit</string>
+    <string name="dialog_restart">Restart</string>
+    <string name="dialog_result">Show Result</string>
+</resources>
