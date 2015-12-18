@@ -2,8 +2,8 @@
 This Repository contains all the android apps created by Rakesh Balan Lingakumar.
 
 > ### 1. CONNECT 4  
+<p align="justify">CONNECT 4 is a two-player connection game. The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent. The game is developed in Android platform to play against Artificial Intelligence who is as brilliant as we are. The AI is implemented using Minimax Algorithm with Alpha-Beta pruning technique.</p>
 
-CONNECT 4 is a two-player connection game. The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent. The game is developed in Android platform to play against Artificial Intelligence who is as brilliant as we are. The AI is implemented using Minimax Algorithm with Alpha-Beta pruning technique. 
 
 > ##### SCREENSHOTS (Click to Maximize)
 
