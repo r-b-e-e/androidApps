@@ -1,5 +1,4 @@
 # Android-Apps
 Repository contains android apps created by Rakesh Balan Lingakumar
 
-![alt tag](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/app/src/main/main_icon-web.png)
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qoCo5G-JlwE/0.jpg)](http://www.youtube.com/watch?v=qoCo5G-JlwE)
