@@ -5,7 +5,7 @@ This Repository contains all the android apps created by Rakesh Balan Lingakumar
 
 awfawfdawfawfawf
 
-> ##### ScreenShots
+> ##### ScreenShots (Click to Maximize)
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" 
