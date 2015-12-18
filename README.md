@@ -1,11 +1,11 @@
 # Android-Apps
 This Repository contains all the android apps created by Rakesh Balan Lingakumar.
 
-### 1. CONNECT 4 - Two-player connection game 
+> ### 1. CONNECT 4 - Two-player connection game 
 
 awfawfdawfawfawf
 
-##### ScreenShots
+> ##### ScreenShots
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" 
