@@ -7,6 +7,20 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/dividerAbove"
+            android:layout_width="match_parent"
+            android:layout_height="8dip"
+            android:layout_marginBottom="4dip"
+            android:layout_marginTop="4dip"
+            android:background="?android:attr/dividerHorizontal"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true">
 
@@ -15,6 +29,13 @@
             android:layout_height="wrap_content"
             android:text="a"
             android:id="@+id/buttonA"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
@@ -22,6 +43,13 @@
             android:layout_height="wrap_content"
             android:text="b"
             android:id="@+id/buttonB"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
@@ -29,6 +57,13 @@
             android:layout_height="wrap_content"
             android:text="c"
             android:id="@+id/buttonC"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider3"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
@@ -36,6 +71,13 @@
             android:layout_height="wrap_content"
             android:text="d"
             android:id="@+id/buttonD"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider4"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
@@ -43,6 +85,13 @@
             android:layout_height="wrap_content"
             android:text="e"
             android:id="@+id/buttonE"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider5"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
@@ -50,6 +99,13 @@
             android:layout_height="wrap_content"
             android:text="f"
             android:id="@+id/buttonF"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider6"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
@@ -57,42 +113,155 @@
             android:layout_height="wrap_content"
             android:text="g"
             android:id="@+id/buttonG"
+            android:background="#FFFF00"
+            android:layout_weight="1"/>
+
+        <View
+            android:id="@+id/divider7"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
     </LinearLayout>
 
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/dividerBelow"
+            android:layout_width="match_parent"
+            android:layout_height="8dip"
+            android:layout_marginBottom="4dip"
+            android:layout_marginTop="4dip"
+            android:background="?android:attr/dividerHorizontal"/>
+    </LinearLayout>
+
     <GridView
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:id="@+id/gridViewBoard"
-    android:numColumns="7"
-    android:gravity="center"
-    android:columnWidth="100dp"
-    android:stretchMode="columnWidth"
-    />
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridViewBoard"
+        android:numColumns="7"
+        android:gravity="center"
+        android:columnWidth="100dp"
+        android:stretchMode="columnWidth"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/dividerBelow2"
+            android:layout_width="match_parent"
+            android:layout_height="8dip"
+            android:layout_marginBottom="4dip"
+            android:layout_marginTop="4dip"
+            android:background="?android:attr/dividerHorizontal"/>
+    </LinearLayout>
 
     <View
-        android:id="@+id/divider"
-        android:layout_width="match_parent"
-        android:layout_height="8dip"
+        android:id="@+id/dividerA"
+        android:layout_width="wrap_content"
+        android:layout_height="50dip"
         android:layout_marginBottom="4dip"
-        android:layout_marginTop="4dip"
-        android:background="?android:attr/dividerHorizontal"/>
+        android:layout_marginTop="4dip" />
 
     <View
-        android:id="@+id/divider1"
+        android:id="@+id/dividerB"
         android:layout_width="match_parent"
-        android:layout_height="8dip"
+        android:layout_height="50dip"
         android:layout_marginBottom="4dip"
-        android:layout_marginTop="4dip"
-        android:background="?android:attr/dividerHorizontal"/>
+        android:layout_marginTop="4dip" />
 
     <View
-        android:id="@+id/divider2"
-        android:layout_width="match_parent"
-        android:layout_height="8dip"
+        android:id="@+id/dividerC"
+        android:layout_width="wrap_content"
+        android:layout_height="50dip"
         android:layout_marginBottom="4dip"
-        android:layout_marginTop="4dip"
-        android:background="?android:attr/dividerHorizontal"/>
+        android:layout_marginTop="4dip" />
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/awfcawf">
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Press the Yellow button to drop the colored disc"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:textAllCaps="true"
+                android:layout_weight="7"/>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="X"
+                android:background="#FFFF00"
+                android:layout_weight="1"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="80dip"
+            android:layout_marginBottom="4dip"
+            android:layout_marginTop="4dip" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Rules"
+                android:gravity="center"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textSize="15sp"/>
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent."
+                android:gravity="left"
+                android:textAllCaps="true"
+                android:layout_weight="4"
+                android:textStyle="bold"
+                android:fontFamily="Arial"/>
+
+        </LinearLayout>
+    </LinearLayout>
 
 </LinearLayout>

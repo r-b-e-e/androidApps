@@ -8,6 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.ImageView;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -20,9 +22,29 @@ public class MainActivity extends ActionBarActivity {
         getSupportActionBar().setTitle(R.string.app_name);
         getSupportActionBar().setIcon(R.drawable.app_icon);
 
-        findViewById(R.id.button_exit).setOnClickListener(new View.OnClickListener() {
+        ImageView imageButton = (ImageView) findViewById(R.id.imageView);
+
+        imageButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
+                Intent i = new Intent(getBaseContext(), BoardActivity.class);
+                startActivity(i);
+            }
+        });
+
+        Button buttonNew = (Button) findViewById(R.id.buttonNewGame);
+        buttonNew.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(getBaseContext(), BoardActivity.class);
+                startActivity(i);
+            }
+        });
+
+        Button buttonExit = (Button) findViewById(R.id.buttonExit);
+        buttonExit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
                 finish();
                 android.os.Process
                         .killProcess(android.os.Process
@@ -30,15 +52,15 @@ public class MainActivity extends ActionBarActivity {
                 System.exit(1);
             }
         });
+    }
 
-        findViewById(R.id.button_new_game).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent i = new Intent(getBaseContext(), BoardActivity.class);
-                startActivity(i);
-
-            }
-        });
-
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        finish();
+        android.os.Process
+                .killProcess(android.os.Process
+                        .myPid());
+        System.exit(1);
     }
 }
