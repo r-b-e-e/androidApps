@@ -15,6 +15,6 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>           
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_Result.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                                                    
 > ##### [YOUTUBE LINK - DEMO](http://www.youtube.com/watch?feature=player_embedded&v=qoCo5G-JlwE)
-> ##### [APK FILE](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
+> ##### [DOWNLOAD APK](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
 <br>
 <br>
