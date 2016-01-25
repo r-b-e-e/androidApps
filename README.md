@@ -54,4 +54,16 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/APKfile)
 <br>
+> ### 4. Blood Alcohol Content (BAC) Level Calculator
+<p align="justify">The purpose of this app is to calculate the alcohol level in our blood based on the user inputs that includes size of the drinks in ounce, % alcohol content in the drink, weight in lbs and gender</p>
+
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/BACCalculator/Screenshots/ui.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/BACCalculator/Screenshots/ui.png" 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/BACCalculator/APKfile)
+<br>
 
