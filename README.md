@@ -29,7 +29,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
 <br>
 > ### Contacts Directory
-<p align="justify">aefawfawfawfwaf</p>
+<p align="justify">This is a Contacts Directory App , where user gets to enter Contacts information, the name/mobile number, along with other details. User should be able edit, display and delete Contacts.</p>
 
 
 > ##### SCREENSHOTS (Click to Maximize)
