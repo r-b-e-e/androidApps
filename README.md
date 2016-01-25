@@ -40,4 +40,18 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### YOUTUBE LINK - [Profile/Message/PushNotification](http://www.youtube.com/watch?feature=player_embedded&v=M4q36_tuCEc) ....     [Login/SignUp](http://www.youtube.com/watch?feature=player_embedded&v=dFvOZHd0DQk)  ....   [Album](http://www.youtube.com/watch?feature=player_embedded&v=BWf_ux5Ulis)   .... [Privacy](http://www.youtube.com/watch?feature=player_embedded&v=I97qYFMnbV0)
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/UNConnect/APK%20file)
 <br>
+> ### 3. Time Difference Calculator
+<p align="justify"></p>
+
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/APKfile)
 <br>
+
