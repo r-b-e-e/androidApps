@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">In Class 2b</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_est">Eastern Standard Time(EST)</string>
+    <string name="btn_cst">Central Standard Time(CST)</string>
+    <string name="btn_mst">Mountain Standard Time(MST)</string>
+    <string name="btn_pst">Pacific Standard Time(PST)</string>
+    <string name="btn_clear">Clear All</string>
+    <string name="result">Result:</string>
+    <string name="ampm">AM/PM:</string>
+    <string name="utc">UTC:</string>
+    <string name="hours">Hours</string>
+    <string name="mins">Minutes</string>
+    <string name="colon">:</string>
+
+    <string name="convert">Convert</string>
+</resources>
