@@ -41,7 +41,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/UNConnect/APK%20file)
 <br>
 > ### 3. Time Difference Calculator
-<p align="justify"></p>
+<p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
 
 
 > ##### SCREENSHOTS (Click to Maximize)
