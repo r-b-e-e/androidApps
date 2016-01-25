@@ -48,8 +48,8 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/APKfile)
