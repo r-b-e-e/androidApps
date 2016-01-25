@@ -28,6 +28,26 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### [YOUTUBE LINK - DEMO](http://www.youtube.com/watch?feature=player_embedded&v=qoCo5G-JlwE)
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
 <br>
+> ### Contacts Directory
+<p align="justify">aefawfawfawfwaf</p>
+
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/front.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/createcontact.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/createcontact.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/editcontact.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/editcontact.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/deletecontact.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/deletecontact.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/viewcontacts.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/viewcontacts.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/ContactsDirectory/APKfile)
+<br>
 > ### Time Difference Calculator
 <p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
 
