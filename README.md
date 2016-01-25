@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
 <br>
 > ### 2. Messaging App: UNConnect   
-<p align="justify">An android app that enable users to connect and share content, messages and media with other users using parse mobile backend service.</p>
+<p align="justify">An android app that enable users to connect and share content, messages and media with other users using parse mobile backend service. This app will provide users with a profile that can be used to share their images, send and receive messages, maintain albums. This app can be easily connected using the FB and Twitter Login as well. The main purpose of our application is to provide a platform for UNC Charlotte Students to be connected and share their updates real-time. In this app based on the privacy setting, user can send and receive push notifications about events happening in their profile from other users.</p>
 
 
 > ##### SCREENSHOTS (Click to Maximize)
