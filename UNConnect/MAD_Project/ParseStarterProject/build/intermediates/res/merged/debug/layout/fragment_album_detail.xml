@@ -1,0 +1,129 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.parse.starter.AlbumDetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Sample text"
+            android:id="@+id/TitleAlbumID"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Access Level:"
+            android:id="@+id/tagAccessLevel"
+            android:layout_below="@+id/TitleAlbumID"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/AccessAlbumID"
+            android:layout_alignTop="@+id/tagAccessLevel"
+            android:layout_toEndOf="@+id/tagAccessLevel"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="3dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Photos"
+            android:id="@+id/LblPhotos"
+            android:layout_below="@+id/tagAccessLevel"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/GridPhotoID"
+            android:layout_below="@+id/LblPhotos"
+            android:layout_alignParentStart="true"
+            android:numColumns="3"
+            android:outlineProvider="paddedBounds" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shared With"
+            android:id="@+id/lblSharedUSerID"
+            android:layout_below="@+id/GridPhotoID"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:id="@+id/GridShareUserID"
+            android:numColumns="3"
+            android:layout_below="@+id/lblSharedUSerID"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Invited Users:"
+            android:id="@+id/LblInvitedUserID"
+            android:layout_below="@+id/GridShareUserID"
+            android:layout_alignParentStart="true" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:id="@+id/GridInviteID"
+            android:numColumns="3"
+            android:layout_below="@+id/LblInvitedUserID"
+            android:layout_alignParentStart="true"
+            android:outlineProvider="paddedBounds" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Owner Name"
+            android:id="@+id/OwnerNameID"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete"
+            android:id="@+id/DeleteBtnID"
+            android:layout_alignParentBottom="true"
+            android:layout_toStartOf="@+id/AccessAlbumID" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:id="@+id/CancelBtnID"
+            android:layout_alignTop="@+id/btnAddPicsID"
+            android:layout_alignStart="@+id/OwnerNameID" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Photos"
+            android:id="@+id/btnAddPicsID"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@+id/TitleAlbumID" />
+
+    </RelativeLayout>
+</FrameLayout>
+<!-- From: file:/C:/Users/Priyanka/Desktop/MAD_Project2/MAD_Project/ParseStarterProject/src/main/res/layout/fragment_album_detail.xml -->

@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "MAD Project": {
+      "applicationId": "IsXkaix7cpakLHOplvicprhGBTP8ewPsRXjaj37h"
+    },
+    "_default": {
+      "link": "MAD Project"
+    }
+  }
+}

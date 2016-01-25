@@ -1,0 +1,103 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.parse.starter.MessageComposeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"></RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To:"
+            android:id="@+id/textViewComposeTo"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SpinnerUserID"
+            android:spinnerMode="dropdown" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Subject:"
+            android:id="@+id/textViewComposeSubject"
+            android:layout_marginTop="10dp"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextComposeSubject"
+            android:layout_marginTop="5dp"
+            android:hint="Add Message Subject Here" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Message"
+            android:id="@+id/textViewComposeMessage"
+            android:layout_marginTop="10dp"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/editTextMessage"
+            android:height="300dp"
+            android:layout_marginTop="5dp"
+            android:hint="Write you Message here" />
+
+        <GridView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/ImageGridID"
+            android:numColumns="3" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:weightSum="1">
+
+            <Button
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:text="Add Image"
+                android:id="@+id/buttonAddImage"
+                android:layout_gravity="bottom"
+                android:layout_weight="0.30" />
+
+            <Button
+                android:layout_width="109dp"
+                android:layout_height="wrap_content"
+                android:text="Send"
+                android:id="@+id/buttonSendMessage"
+                android:layout_gravity="bottom"
+                android:layout_weight="0.29" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:id="@+id/CancelMesgID"
+                android:layout_weight="0.23" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</FrameLayout>
+<!-- From: file:/C:/Users/Priyanka/Desktop/MAD_Project2/MAD_Project/ParseStarterProject/src/main/res/layout/fragment_message_compose.xml -->

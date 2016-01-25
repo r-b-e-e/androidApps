@@ -1,0 +1,241 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.parse.starter.CreateAccountFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:id="@+id/RelativeLayoutID"
+        android:layout_gravity="center">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SignUp"
+            android:id="@+id/sign"
+            android:layout_alignParentBottom="true"
+            android:layout_alignEnd="@+id/RadioGrpMesgID" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:id="@+id/cancel"
+            android:layout_below="@+id/ProfilePicID"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="@string/FName"
+            android:ems="10"
+            android:id="@+id/fNameID"
+            android:editable="true"
+            android:hint="FName"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="@string/LName"
+            android:ems="10"
+            android:id="@+id/LNameID"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/fNameID"
+            android:layout_toEndOf="@+id/fNameID"
+            android:hint="LName" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/EmailID"
+            android:hint="Email"
+            android:layout_below="@+id/fNameID"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/PasswordID"
+            android:hint="Password"
+            android:layout_below="@+id/EmailID"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:gravity="left"
+            android:layout_toStartOf="@+id/RadioGroupID" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/CPasswordID"
+            android:hint="Confirm Password"
+            android:layout_alignTop="@+id/PasswordID"
+            android:layout_alignParentEnd="true"
+            android:gravity="right" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/RadioGroupID"
+            android:orientation="horizontal"
+            android:layout_below="@+id/CPasswordID"
+            android:layout_alignEnd="@+id/CPasswordID">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Male"
+                android:id="@+id/MaleID"
+                android:checked="true" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:id="@+id/femaleID"
+                android:layout_marginLeft="50dp" />
+        </RadioGroup>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ProfilePicID"
+            android:src="@drawable/avatar"
+            android:layout_above="@+id/sign"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gender:"
+            android:id="@+id/lblGenderID"
+            android:textStyle="bold"
+            android:layout_alignTop="@+id/RadioGroupID"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Profile Privacy:"
+            android:id="@+id/lblProfPrivacyID"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Receive Message:"
+            android:id="@+id/lblMessageID"
+            android:layout_above="@+id/ProfilePicID"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:textStyle="bold"
+            android:layout_marginTop="270dp" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/lblProfPrivacyID"
+            android:layout_alignEnd="@+id/RadioGroupID"
+            android:layout_alignStart="@+id/RadioGroupID"
+            android:orientation="horizontal"
+            android:id="@+id/RadioGrpPrivacyID">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Public"
+                android:id="@+id/PPublicID"
+                android:checked="true" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Private "
+                android:id="@+id/PPrivateID"
+                android:checked="false"
+                android:layout_alignTop="@+id/RadioGrpPrivacyID"
+                android:layout_alignParentEnd="true"
+                android:layout_marginLeft="42dp" />
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/lblMessageID"
+            android:orientation="horizontal"
+            android:id="@+id/RadioGrpMesgID"
+            android:layout_alignStart="@+id/RadioGrpPrivacyID">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yes"
+                android:id="@+id/radioMsgYesID"
+                android:checked="true"
+                android:layout_marginLeft="5dp" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="No"
+                android:id="@+id/radioMsgNoID"
+                android:checked="false"
+                android:layout_marginLeft="55dp" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notification:"
+            android:id="@+id/lblNotification"
+            android:textStyle="bold"
+            android:layout_below="@+id/RadioGroupID"
+            android:layout_alignParentStart="true" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/lblNotification"
+            android:layout_alignStart="@+id/RadioGroupID"
+            android:id="@+id/RadioGrpNotifyID"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yes"
+                android:id="@+id/radioNotifyYesID"
+                android:checked="true" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="No"
+                android:id="@+id/radioNotifyNoID"
+                android:checked="false"
+                android:layout_marginLeft="58dp" />
+        </RadioGroup>
+
+    </RelativeLayout>
+</FrameLayout>

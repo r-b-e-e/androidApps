@@ -1,0 +1,124 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.parse.starter.ProfileFragment">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayoutID"
+        android:layout_gravity="right|top">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/profilePicID"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/UserNameID"
+            android:layout_marginRight="74dp"
+            android:layout_marginEnd="74dp"
+            android:text="larger Text"
+            android:layout_alignTop="@+id/profilePicID"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/GenderID"
+            android:layout_below="@+id/UserNameID"
+            android:layout_alignLeft="@+id/UserNameID"
+            android:layout_alignStart="@+id/UserNameID"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/Albums"
+            android:id="@+id/AlbumID"
+            android:layout_below="@+id/GenderID"
+            android:layout_marginTop="35dp"
+            android:capitalize="characters"
+            android:textColor="#2d2eff"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:id="@+id/AlbumGridID"
+            android:layout_below="@+id/AlbumID"
+            android:layout_alignLeft="@+id/AlbumID"
+            android:layout_alignStart="@+id/AlbumID"
+            android:layout_marginTop="5dp"
+            android:numColumns="3"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:outlineProvider="paddedBounds" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/Users"
+            android:id="@+id/UsersID"
+            android:capitalize="characters"
+            android:textColor="#2d2eff"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_gravity="right|center_vertical"
+            android:layout_below="@+id/AlbumGridID"
+            android:layout_alignParentStart="true" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/UsersGridID"
+            android:layout_below="@+id/UsersID"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/BtnMesgID"
+            android:numColumns="3"
+            android:outlineProvider="paddedBounds" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/BtnGotoMesg"
+            android:id="@+id/BtnMesgID"
+            android:layout_alignParentBottom="true"
+            android:layout_alignEnd="@+id/btneditID" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/BittonEditProfile"
+            android:id="@+id/btneditID"
+            android:layout_marginRight="5dp"
+            android:layout_alignParentEnd="true"
+            android:layout_above="@+id/AlbumID" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:id="@+id/addAlbum"
+            android:src="@drawable/addalbum"
+            android:layout_above="@+id/AlbumGridID"
+            android:layout_alignEnd="@+id/btneditID" />
+
+    </RelativeLayout>
+
+</FrameLayout>
+<!-- From: file:/C:/Users/Priyanka/Desktop/MAD_Project2/MAD_Project/ParseStarterProject/src/main/res/layout/fragment_profile.xml -->

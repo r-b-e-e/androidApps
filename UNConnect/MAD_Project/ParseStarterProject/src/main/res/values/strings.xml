@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">YOUR_APPLICATION_ID</string>
+    <string name="parse_client_key">YOUR_CLIENT_KEY</string>
+    <string name="facebook_app_id">812427895532992</string>
+    <string name="app_name">UNConnect</string>
+    <string name="login_using">Login Using</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_compose">Compose Message</string>
+    <string name="action_profile">Go To Profile</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new_account">Create New Account</string>
+
+    <string name="FLName_S_hint">User First Last Name</string>
+    <string name="email_S_hint">Email</string>
+    <string name="password_S_hint">Password</string>
+    <string name="confirm_password_S_hint">Confirm Password</string>
+    <string name="signup">Sign up</string>
+    <string name="cancel">Cancel</string>
+    <string name="FName" />
+    <string name="LName" />
+    <string name="Password" />
+    <string name="lblImage">Images</string>
+    <string name="lblDownloads">Downloads</string>
+    <string name="lblGallery">Gallery</string>
+    <string name="lblFileManager">File Manager</string>
+    <string name="LblCamera">Camera</string>
+    <string name="logout">Logout</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Albums">Albums</string>
+    <string name="Users">Users</string>
+    <string name="BtnGotoMesg">Check your Messages</string>
+    <string name="BittonEditProfile">Edit</string>
+    <string name="UserName">username</string>
+    <string name="AlbumTitle" />
+    <string name="PrivateMode">Private</string>
+    <string name="Publicmode">Public</string>
+    <string name="InviteUsers">Invite Other Users to Contribute to your Album</string>
+    <string name="AlbumTitleValue">Add Album title here</string>
+</resources>

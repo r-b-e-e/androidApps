@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Priyanka\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-260ba76eea4eded4aa1d487797f35081b5936a9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.11.0-5d829d8ef75b155b45974e7665f3e587d7e7274f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-4e19b7c3f0ee10b6dc1de9918534c00fb18f0bb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-4a50261cab4fbe484284f25fee4418f90f7773ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-e8663fb307369c4e85ece6bc3c8d23d545e249c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-09b24906486b9ced56d0b001f3152a51697b4b5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\exploded-aar\com.parse\parsefacebookutils-v4-android\1.10.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-e2b943d43434b0912853967e5c428245bf9362a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-3ed3939b25dfeecf2cf6719b83b81772bd44689f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\.gradle\caches\modules-2\files-2.1\com.parse\parsetwitterutils-android\1.10.3\8d945a26edb86e14260343e2a0dbe2ddd8937b73\parsetwitterutils-android-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d945a26edb86e14260343e2a0dbe2ddd8937b73">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\parsetwitterutils-android-1.10.3-679bf42c21dda5f94d7c9d31e5986be9d9c04bff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\picasso-2.5.2-f4cf0f5c563a7cb86b11c8bda223362386f6ec5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyanka\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Priyanka\Desktop\MAD_Project2\MAD_Project\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0-1293bcc32d70c7a3156ac39827063eb316a99a92.jar" />
+    </item>
+
+</items>
