@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">InClass01</string>
+
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+<string name="title_button">In Class 2a</string>
+
+<string name="button_inch">To Inches</string>
+<string name="button_feet">To Feets</string>
+<string name="button_miles">To Miles</string>
+<string name="button_clear">Clear All</string>
+<string name="enter_distance">Enter distance</string>
+<string name="meter">Meters:</string>
+<string name="result">Result:</string>
+
+</resources>
