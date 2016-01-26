@@ -12,7 +12,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/BACCalculator/APKfile)
 <br>
-> ### 2D Game: CONNECT 4  
+> ### CONNECT 4: 2D Game  
 <p align="justify">CONNECT 4 is a two-player connection game. The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent. The game is developed in Android platform to play against Artificial Intelligence who is as brilliant as we are. The AI is implemented using Minimax Algorithm with Alpha-Beta pruning technique.</p>
 
 
@@ -48,6 +48,20 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/ContactsDirectory/APKfile)
 <br>
+> ### Distance Conversion Calculator
+<p align="justify">This app is used to convert distance in meters to inches, feet and miles using buttons and radio groups.</p>
+
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/button.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/button.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/radiobutton.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/radiobutton.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> 
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Distance%20Conversion%20Calculator/APKfile)
+<br>
 > ### Time Difference Calculator
 <p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
 
@@ -62,7 +76,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/APKfile)
 <br>
-> ### Messaging App: UNConnect   
+> ### UNConnect: Messaging App
 <p align="justify">An android app that enable users to connect and share content, messages and media with other users using parse mobile backend service. This app will provide users with a profile that can be used to share their images, send and receive messages, maintain albums. This app can be easily connected using the FB and Twitter Login as well. The main purpose of our application is to provide a platform for UNC Charlotte Students to be connected and share their updates real-time. In this app based on the privacy setting, user can send and receive push notifications about events happening in their profile from other users.</p>
 
 
