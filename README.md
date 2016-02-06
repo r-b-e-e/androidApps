@@ -1,6 +1,18 @@
 # Android-Apps
 This repository contains all the android apps created/contributed by Rakesh Balan Lingakumar.
 
+> ### Album
+<p align="justify">This app is used to download and display online photos using HttpURLConnection</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Album/Screenshots/album_.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Album/Screenshots/album_.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Album/APKfile)
+<br>
+
 > ### Blood Alcohol Content (BAC) Level Calculator
 <p align="justify">The purpose of this app is to calculate the alcohol level in our blood based on the user inputs that includes size of the drinks in ounce, % alcohol content in the drink, weight in lbs and gender</p>
 
@@ -12,6 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/BACCalculator/APKfile)
 <br>
+
 > ### CONNECT 4: 2D Game  
 <p align="justify">CONNECT 4 is a two-player connection game. The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent. The game is developed in Android platform to play against Artificial Intelligence who is as brilliant as we are. The AI is implemented using Minimax Algorithm with Alpha-Beta pruning technique.</p>
 
