@@ -62,6 +62,20 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Distance%20Conversion%20Calculator/APKfile)
 <br>
+
+> ### Password Generator
+<p align="justify">This app is used to generate passwords using Android concurrency models such as Threads and AsyncTask</p>
+
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Password%20Generator/Screenshots/pass_gen.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Password%20Generator/Screenshots/pass_gen.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a> 
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Password%20Generator/APKfile)
+<br>
+
 > ### Time Difference Calculator
 <p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
 
