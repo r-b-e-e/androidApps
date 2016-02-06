@@ -92,7 +92,6 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 > ### Time Difference Calculator
 <p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
 
-
 > ##### SCREENSHOTS (Click to Maximize)
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" target="_blank">
@@ -103,6 +102,33 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/APKfile)
 <br>
+
+
+> ### Trivia Quiz
+<p align="justify">This is a Trivia quiz app where the user can create quiz, attend quiz and see the results.</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/front.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_1.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_1.png" 
+alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_2.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_2.png" 
+alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/display_ques.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/display_ques.png" 
+alt="IMAGE ALT TEXT HERE" width="320" height="200" border="10" /></a>
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/results.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/results.png" 
+alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Trivia%20Quiz/apkfile)
+<br>
+
+
 > ### UNConnect: Messaging App
 <p align="justify">An android app that enable users to connect and share content, messages and media with other users using parse mobile backend service. This app will provide users with a profile that can be used to share their images, send and receive messages, maintain albums. This app can be easily connected using the FB and Twitter Login as well. The main purpose of our application is to provide a platform for UNC Charlotte Students to be connected and share their updates real-time. In this app based on the privacy setting, user can send and receive push notifications about events happening in their profile from other users.</p>
 
