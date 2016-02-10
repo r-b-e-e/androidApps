@@ -91,7 +91,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 <br><br>
 
 > ### SmartSafe
-<p align="justify">This app is used to track the exact location of a person using Google Maps API in case of emergency.</p>
+<p align="justify">This app is used to track the exact location of a person using Google Maps API in case of emergency. Firebase web service is used for storing the person's location for 24 hours. This app also has the feature to play back in the Google Map the list of all visited location</p>
 ***Work in progress***
 <br><br>
 
