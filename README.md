@@ -87,9 +87,8 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 
 > ### SmartSafe
 <p align="justify">This app is used to track the exact location of a person using Google Maps API in case of emergency.</p>
-> ##### SCREENSHOTS (Click to Maximize)
 ***Work in progress***
-<br>
+<br><br>
 
 > ### Time Difference Calculator
 <p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
