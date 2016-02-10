@@ -78,15 +78,17 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ### Password Generator
 <p align="justify">This app is used to generate passwords using Android concurrency models such as Threads and AsyncTask</p>
-
-
 > ##### SCREENSHOTS (Click to Maximize)
-
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/Password%20Generator/Screenshots/pass_gen.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/Password%20Generator/Screenshots/pass_gen.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a> 
-
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Password%20Generator/APKfile)
+<br>
+
+> ### SmartSafe
+<p align="justify">This app is used to track the exact location of a person using Google Maps API in case of emergency.</p>
+> ##### SCREENSHOTS (Click to Maximize)
+***Work in progress***
 <br>
 
 > ### Time Difference Calculator
