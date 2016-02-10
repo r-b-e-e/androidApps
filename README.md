@@ -85,6 +85,11 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Password%20Generator/APKfile)
 <br>
 
+> ### QPXExpress
+<p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops.</p>
+***Work in progress***
+<br><br>
+
 > ### SmartSafe
 <p align="justify">This app is used to track the exact location of a person using Google Maps API in case of emergency.</p>
 ***Work in progress***
