@@ -86,7 +86,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 <br>
 
 > ### QPXExpress
-<p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops.</p>
+<p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops. This app uses google's QPX Express API to get the current flight details and place a flag on a flight to track it. The Complexity of this project is handling the complex JSON file from the API.</p>
 ***Work in progress***
 <br><br>
 
