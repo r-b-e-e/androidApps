@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textViewIssueTitle" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/textViewIssueBody" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="4dip"
+            android:layout_weight="1"
+            android:background="?android:attr/dividerHorizontal"
+
+            />
+    </LinearLayout>
+</RelativeLayout>

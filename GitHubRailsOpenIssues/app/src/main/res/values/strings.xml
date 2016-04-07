@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubRailsOpenIssues</string>
+    <string name="developer_name">Developer: Rakesh Balan Lingakumar</string>
+    <string name="nil_comments">NO COMMENTS AVAILABEL</string>
+</resources>
