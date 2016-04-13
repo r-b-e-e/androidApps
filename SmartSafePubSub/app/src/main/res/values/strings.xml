@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartSafePubNub</string>
+    <string name="developer_name">Developer: Rakesh Balan Lingakumar</string>
+    <string name="publish_location">Publish Location\r\n(Device 1 - To publish the geo-location)</string>
+    <string name="subscribe_location">Subscribe Location\r\n(Device 2 - To receive and display the geo-location in Google Maps)</string>
+    <string name="unsubscribe_location">Unsubscribe Location</string>
+</resources>
+
