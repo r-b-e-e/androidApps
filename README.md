@@ -32,7 +32,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/BBCTechnologyNews/screenshots/front.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/BBCTechnologyNews/screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="350" height="200" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 <br>
 
@@ -101,9 +101,24 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/back.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/back.png" 
-alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/MessagingAppParse/APKfile)
+<br>
+
+
+> ### MessagingAppParseFragments
+<p align="justify">The app enables users to share public messages with other users using parse web services and Android Fragments. The app also has sign up/sign in/logout options.</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/front.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/back.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/back.png" 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/MessagingAppParseFragments/APKfile)
 <br>
 
 
