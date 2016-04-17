@@ -83,8 +83,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 
 > ### OpenWeatherMap
-<p align="justify">IN praonkjgeanghaevbaekjb <p>
-
+<p align="justify"> The objective of the app is to parse the xml obtained from the open weather api which contains all the weather information of the particular area. <p>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
