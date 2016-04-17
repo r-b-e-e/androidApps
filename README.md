@@ -61,6 +61,10 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/ContactsDirectory/APKfile)
 <br>
+
+
+
+
 > ### Distance Conversion Calculator
 <p align="justify">This app is used to convert distance in meters to inches, feet and miles using buttons and radio groups.</p>
 
@@ -75,6 +79,24 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Distance%20Conversion%20Calculator/APKfile)
 <br>
+
+
+
+> ### OpenWeatherMap
+<p align="justify"> The objective of the app is to parse the xml obtained from the open weather api which contains all the weather information of the particular area. <p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/pics.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/pics.png" 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" 
+alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/OpenWeatherMap/APKfile)
+<br>
+
+
 
 > ### Password Generator
 <p align="justify">This app is used to generate passwords using Android concurrency models such as Threads and AsyncTask</p>
