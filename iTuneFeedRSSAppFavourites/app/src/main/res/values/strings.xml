@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TED Radio Hour Podcast</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="episodeTitle">Episode Title</string>
+    <string name="dateTime">posted: Day, DD. MON YYYY</string>
+    <string name="playNowText">Play Now</string>
+    <string name="activity_play">Play!</string>
+    <string name="episodeDescPrefix">Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="descipPlaceHolder">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="descripDatePlaceHolder">Publication Date:  MM/DD/YYYY</string>
+    <string name="descripDurationPlaceHolder">Duration: ###</string>
+    <string name="playClicked">playClicked</string>
+    <string name="viewChanged">Change View</string>
+    <string name="pauseClicked">pauseClicked</string>
+</resources>

@@ -1,0 +1,120 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.group6a_hw05.group6a_hw05.PlayActivity"
+    android:onClick="@string/playClicked">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/episodeTitle"
+                android:id="@+id/textViewEpisodeTitle"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:textColor="#0000ff"
+                android:maxLines="1"
+                android:paddingLeft="4dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/episodeDescPrefix"
+                android:id="@+id/textViewEpisodeDescription"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:paddingLeft="4dp"
+                android:paddingBottom="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_below="@+id/imageViewEpisodeIcon"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/descripDatePlaceHolder"
+                android:id="@+id/textViewDescripDate"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:paddingLeft="4dp"
+                android:paddingBottom="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_below="@+id/textViewEpisodeDescription"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/descripDurationPlaceHolder"
+                android:id="@+id/textViewDuration"
+                android:textSize="20dp"
+                android:textColor="#0000ff"
+                android:maxLines="1"
+                android:paddingLeft="4dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_below="@+id/textViewDescripDate"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="30dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/playButton"
+                android:src="@android:drawable/ic_media_play"
+                android:layout_below="@+id/textViewDuration"
+                android:tint="#666666"
+                android:layout_marginBottom="30dp"
+                android:layout_centerHorizontal="true"
+                android:onClick="@string/playClicked" />
+
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="200dp"
+                android:id="@+id/imageViewEpisodeIcon"
+                android:src="@android:drawable/ic_menu_close_clear_cancel"
+                android:layout_below="@+id/textViewEpisodeTitle"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/progressBarLength"
+                android:layout_below="@+id/playButton"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/pauseButton"
+                android:src="@android:drawable/ic_media_pause"
+                android:tint="#666666"
+                android:onClick="@string/pauseClicked"
+                android:layout_alignTop="@+id/playButton"
+                android:layout_alignLeft="@+id/playButton"
+                android:layout_alignStart="@+id/playButton" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
