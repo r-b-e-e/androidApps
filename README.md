@@ -190,7 +190,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ### iTuneFeedRSSApp
 <p align="justify">The App displays media feeds from iTunes Store related to latest content release details like AudioBooks,
-Movies , iOS apps, etc. Main function in this app is parsing JSON</p>
+Movies , iOS apps, etc. Main function in this app is parsing JSON. </p>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
