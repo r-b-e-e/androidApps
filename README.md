@@ -117,6 +117,23 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 ***Work in progress***
 <br><br>
 
+
+> ### TEDRadioHourPodcast
+<p align="justify">This podcast app displays and plays episodes from “TED Radio Hour” channel. The feed is obtained from the NRP API. The app displays the podcast items in two modes, in a linear list and in grid view. Effective use of RecyclerView.</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/font.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/font.png" 
+alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/back.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/back.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/TEDRadioHourPodcast/APKfile)
+<br>
+
+
+
 > ### Time Difference Calculator
 <p align="justify">The purpose of this android app is to perform time zone conversion from Universal Time Coordinated (UTC) to four other time zones (EST,CST,MST,PST). Each button/radio button will perform the logic of the corresponding conversion and display the converted time</p>
 
