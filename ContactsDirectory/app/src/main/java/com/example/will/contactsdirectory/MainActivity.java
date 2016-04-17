@@ -16,7 +16,7 @@ import java.util.Comparator;
 /**
  * Homework 2
  * MainActivity
- * Ganesh Ramamoorthy, Rakesh Balan,William Rosmon
+ * Ganesh Ramamoorthy, Rakesh Balan, William Rosmon
  */
 public class MainActivity extends AppCompatActivity {
 

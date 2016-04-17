@@ -24,9 +24,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLEncoder;
 
-/**
- * Ganesh Ramamoorthy, Rakesh Balan
- */
+
+// Created by Rakesh Balan Lingakumar
+
 public class MainActivity extends AppCompatActivity {
 
     private Button startButton;

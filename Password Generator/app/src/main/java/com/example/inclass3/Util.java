@@ -3,7 +3,7 @@ package com.example.inclass3;
 import java.util.Random;
 
 /**
- * Created by mshehab on 9/14/15.
+ * Created by Rakesh Balan Lingakumar on 9/14/15.
  */
 public class Util {
     private static final String _CHAR = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz!@#$%/.";

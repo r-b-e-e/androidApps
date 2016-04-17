@@ -4,9 +4,8 @@ import com.parse.ParseUser;
 
 import java.util.List;
 
-/**
- * Created by Priyanka on 12/4/2015.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class Album {
     String albumTitle;
     ParseUser albumOwnerName;

@@ -1,9 +1,9 @@
 package com.example.group10b_hw03;
 
 import java.util.ArrayList;
-/**
- * Ganesh Ramamoorthy, Rakesh Balan
- */
+
+// Created by Rakesh Balan Lingakumar
+
 public class Question {
     private String qID;
     private String qName;

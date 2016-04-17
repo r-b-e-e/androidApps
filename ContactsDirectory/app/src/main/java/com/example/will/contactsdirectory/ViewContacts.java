@@ -21,7 +21,7 @@ import java.util.ArrayList;
 /**
  * Homework 2
  * ViewContacts
- * Ganesh Ramamoorthy, Rakesh Balan,William Rosmon
+ * Ganesh Ramamoorthy, Rakesh Balan, William Rosmon
  */
 public class ViewContacts extends AppCompatActivity {
 

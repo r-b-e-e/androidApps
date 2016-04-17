@@ -26,10 +26,7 @@ import java.util.List;
 
 
 /**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link AlbumViewPhotoFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
+ * Created by Rakesh Balan on 12/9/2015.
  */
 public class AlbumViewPhotoFragment extends Fragment {
 

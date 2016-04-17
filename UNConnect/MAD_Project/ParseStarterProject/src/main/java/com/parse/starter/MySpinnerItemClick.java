@@ -13,7 +13,7 @@ import com.parse.ParseUser;
 import java.util.List;
 
 /**
- * Created by Priyanka on 12/10/2015.
+ * Created by Priyanka, Rakesh Balan on 12/10/2015.
  */
 public class MySpinnerItemClick implements AdapterView.OnItemSelectedListener {
     MessageComposeFragment obj;

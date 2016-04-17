@@ -6,6 +6,8 @@
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  */
+
+
 package com.parse.starter;
 
 import android.content.Intent;
@@ -18,6 +20,9 @@ import com.parse.ParseAnalytics;
 import com.parse.ParseFacebookUtils;
 import com.parse.ParseUser;
 
+/**
+ * Created by Rakesh Balan on 12/9/2015.
+ */
 
 public class MainActivity extends ActionBarActivity implements LoginFragment.OnFragmentInteractionListener,
         CreateAccountFragment.OnFragmentInteractionListener, OpenFormFragment.OnFragmentInteractionListener,

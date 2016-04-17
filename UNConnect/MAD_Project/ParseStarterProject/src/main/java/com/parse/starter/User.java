@@ -1,8 +1,7 @@
 package com.parse.starter;
 
-/**
- * Created by Priyanka on 11/19/2015.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class User {
 
     String fname,lname, email, password, datetime, gender, photoUrl;

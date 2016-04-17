@@ -32,9 +32,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.util.ArrayList;
-/**
- * Ganesh Ramamoorthy, Rakesh Balan
- */
+
+// Created by Rakesh Balan Lingakumar
+
 public class TriviaActivity extends AppCompatActivity {
     ProgressDialog dialog;
     ArrayList<Question> questions = new ArrayList<Question>();

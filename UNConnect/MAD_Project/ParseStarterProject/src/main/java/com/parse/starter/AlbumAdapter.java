@@ -19,9 +19,8 @@ import com.parse.ParseObject;
 
 import java.util.List;
 
-/**
- * Created by Priyanka on 12/9/2015.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class AlbumAdapter extends ArrayAdapter<ParseObject> {
 
     List<ParseObject> data;

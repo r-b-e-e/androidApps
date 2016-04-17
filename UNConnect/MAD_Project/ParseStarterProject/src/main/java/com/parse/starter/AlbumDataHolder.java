@@ -2,9 +2,8 @@ package com.parse.starter;
 
 import com.parse.ParseObject;
 
-/**
- * Created by Priyanka on 12/10/2015.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class AlbumDataHolder {
 
     private static AlbumDataHolder dataobject = null;

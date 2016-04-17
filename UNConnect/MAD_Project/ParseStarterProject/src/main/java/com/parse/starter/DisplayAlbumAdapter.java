@@ -24,7 +24,7 @@ import org.json.JSONObject;
 import java.util.List;
 
 /**
- * Created by Priyanka on 12/9/2015.
+ * Created by Rakesh Balan on 12/9/2015.
  */
 public class DisplayAlbumAdapter extends ArrayAdapter<ParseObject> {
 

@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Priyanka on 12/6/2015
+ * Created by Rakesh Balan on 12/9/2015.
  */
 public class UserAdapter extends ArrayAdapter<User> {
 

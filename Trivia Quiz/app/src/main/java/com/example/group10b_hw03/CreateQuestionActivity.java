@@ -49,9 +49,9 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-/**
- * Ganesh Ramamoorthy, Rakesh Balan
- */
+
+// Created by Rakesh Balan Lingakumar
+
 public class CreateQuestionActivity extends AppCompatActivity {
     ImageView imageViewAddQ;
     Button buttonSelectImage;

@@ -18,6 +18,9 @@ import com.parse.ParseTwitterUtils;
 import com.parse.ParseUser;
 
 
+/**
+ * Created by Rakesh Balan on 12/9/2015.
+ */
 public class StarterApplication extends Application {
 
   @Override

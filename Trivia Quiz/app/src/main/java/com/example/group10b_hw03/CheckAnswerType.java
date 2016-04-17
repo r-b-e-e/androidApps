@@ -1,8 +1,7 @@
 package com.example.group10b_hw03;
 
-/**
- * Ganesh Ramamoorthy, Rakesh Balan
- */
+// Created by Rakesh Balan Lingakumar
+
 public class CheckAnswerType {
 
     private String qId;

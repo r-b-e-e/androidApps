@@ -1,7 +1,7 @@
 package com.parse.starter;
 
 /**
- * Created by Priyanka on 12/3/2015.
+ * Created by Rakesh Balan on 12/9/2015.
  */
 public class ImageURLHolderClass {
 

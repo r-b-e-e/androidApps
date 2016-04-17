@@ -37,12 +37,8 @@ import java.util.List;
 import java.util.ListIterator;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link AlbumDetailFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class AlbumDetailFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;

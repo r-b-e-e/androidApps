@@ -5,7 +5,7 @@ import com.parse.ParseUser;
 import java.util.Date;
 
 /**
- * Created by Priyanka on 12/10/2015.
+ * Created by Rakesh Balan on 12/9/2015.
  */
 public class Message {
 

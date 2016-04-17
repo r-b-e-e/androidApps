@@ -10,9 +10,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-/**
- * Ganesh Ramamoorthy, Rakesh Balan
- */
+
+// Created by Rakesh Balan Lingakumar
+
 public class ResultsActivity extends AppCompatActivity {
 
     @Override

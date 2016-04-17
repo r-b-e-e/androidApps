@@ -32,12 +32,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link AlbumFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class AlbumFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;

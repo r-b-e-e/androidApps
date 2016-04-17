@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Questionnaire: Smoking Cessation</string>
+    <string name="splash_info">RESEARCH STUDY\r\nON\r\nPERVASIVE COMPUTING\r\nTO STUDY SMOKING BEHAVIOR</string>
+    <string name="app_developer">App Developer: RB</string>
+    <string name="new_user">     New User?     </string>
+    <string name="existing_user">Existing User?</string>
+
+
+
+
+
+</resources>

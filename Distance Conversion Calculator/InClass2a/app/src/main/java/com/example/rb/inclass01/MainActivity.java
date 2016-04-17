@@ -13,6 +13,8 @@ import android.widget.Toast;
 
 import java.text.StringCharacterIterator;
 
+// Created by Rakesh Balan Lingakumar
+
 public class MainActivity extends AppCompatActivity {
     Button button_inch;
     Button button_feet;

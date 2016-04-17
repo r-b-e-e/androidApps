@@ -17,6 +17,9 @@ import com.parse.ParseUser;
 
 
 /**
+ * Created by Rakesh Balan on 12/9/2015.
+ */
+/**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
  * {@link GalleryFragment.OnFragmentInteractionListener} interface

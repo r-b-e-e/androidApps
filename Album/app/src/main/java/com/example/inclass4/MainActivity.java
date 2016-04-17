@@ -26,6 +26,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
+// Created by Rakesh Balan Lingakumar
+
 public class MainActivity extends AppCompatActivity {
     ArrayList<String> photoArray = new ArrayList<String>();
     private int counter = 0;

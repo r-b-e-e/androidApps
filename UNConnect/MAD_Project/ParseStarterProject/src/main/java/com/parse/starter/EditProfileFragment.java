@@ -22,12 +22,8 @@ import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link EditProfileFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- */
+// Created by Rakesh Balan Lingakumar
+
 public class EditProfileFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
