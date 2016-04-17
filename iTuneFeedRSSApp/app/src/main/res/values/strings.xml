@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">iTuneFeedRSSApp</string>
+
+    <string name="main_name">App Store Latest!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtAudioBook">Audio Book</string>
+    <string name="txtBooks">Books</string>
+    <string name="txtiOSApps">iOS Apps</string>
+    <string name="txtMACApps">MAC Apps</string>
+    <string name="txtMovies">Movies</string>
+    <string name="txtiTunesU">iTunes U</string>
+    <string name="txtMusicVideo">Music Videos</string>
+    <string name="txtPodCasts">Pod Cast</string>
+    <string name="txtTVShows">TV Shows</string>
+    <string name="title_activity_media_list">MediaListActivity</string>
+    <string name="title_activity_detail_media">App Details</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+</resources>
