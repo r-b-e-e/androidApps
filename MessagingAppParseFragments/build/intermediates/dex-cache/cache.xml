@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-abe7c6382b08bd56e85d86a9f10a0add6a6a7ef5.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakeshbalan\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.10.3\36366e460af2c0f224bb8f70b64e3302f638b138\parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.10.3-8e5031c9c927bd719abd29b647c2fc9df975a396.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakeshbalan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-9b809af44c35ad1f32a338071a28c1f727f9c896.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakeshbalan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-34893c7761f3d668f96ec40e63a98c03be469098.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-9babe0f4c6e30811ec83ed07120f9a895c3aaf6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\rakeshbalan\Desktop\MAD\Projects\InClass09_Rakesh\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-2c715364638872b11ad45ca99c0961be8ab73912.jar" />
+    </item>
+
+</items>

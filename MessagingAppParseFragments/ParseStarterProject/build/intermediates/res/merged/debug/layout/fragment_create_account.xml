@@ -1,0 +1,72 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.parse.starter.CreateAccountFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textFirstLastNameS"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="54dp"
+            android:hint="@string/FLName_S_hint"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/testEmailS"
+            android:layout_below="@+id/textFirstLastNameS"
+            android:layout_centerHorizontal="true"
+            android:hint="@string/email_S_hint"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textPasswordS"
+            android:layout_below="@+id/testEmailS"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="25dp"
+            android:hint="@string/password_S_hint"
+            android:inputType="textWebPassword"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textConfirmPasswordS"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:hint="@string/confirm_password_S_hint"
+            android:inputType="textWebPassword"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/signup"
+            android:id="@+id/button_signup"
+            android:layout_below="@+id/textConfirmPasswordS"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="63dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:id="@+id/button_cancel"
+            android:layout_below="@+id/button_signup"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</FrameLayout>
+<!-- From: file:/C:/Users/rakeshbalan/Desktop/MAD/Projects/InClass09_Rakesh/ParseStarterProject/src/main/res/layout/fragment_create_account.xml -->
