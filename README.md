@@ -90,7 +90,7 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/pics.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/pics.png" 
-alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" target="_blank">
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
