@@ -25,6 +25,17 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/BACCalculator/APKfile)
 <br>
 
+> ### BBCTechnologyNews
+<p align="justify">Development of a simple Yahoo! new rss feed client application using BBC Technology news API. The application loads news feeds details into a list. Users of the application will be able to block and unblock feeds to their local blocked list. The blocked list is stored into a SQLite database. </p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/BBCTechnologyNews/screenshots/front.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/BBCTechnologyNews/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
+
+<br>
+
 > ### CONNECT 4: 2D Game  
 <p align="justify">CONNECT 4 is a two-player connection game. The objective of the game is to connect four of one's own discs of the same color next to each other vertically, horizontally, or diagonally before your opponent. The game is developed in Android platform to play against Artificial Intelligence who is as brilliant as we are. The AI is implemented using Minimax Algorithm with Alpha-Beta pruning technique.</p>
 
