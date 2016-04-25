@@ -64,7 +64,7 @@ Contacts database.</p>
 
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsAppPhoneGap/screenshots/front.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsAppPhoneGap/screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>                                                                                                 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>                                                                                                 
 <br>
 
 
