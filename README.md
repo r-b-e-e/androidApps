@@ -111,9 +111,9 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 <p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops. This app uses google's QPX Express API to get the current flight details and place a flag on a flight to track it. The Complexity of this project is handling the complex JSON file from the API.</p>
 <a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" 
-alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" target="_blank">
+alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" target="_blank">
 <img src="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" 
-alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
 
 <br><br>
 
