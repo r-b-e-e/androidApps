@@ -52,6 +52,22 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### [YOUTUBE LINK - DEMO](http://www.youtube.com/watch?feature=player_embedded&v=qoCo5G-JlwE)
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
 <br>
+
+
+
+> ### Contacts App using PhoneGap (Cordova)
+<p align="justify">This app uses Cordova library & Framework7 that enables users to enter contact details and save them into Device
+Contacts database.</p>
+
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsAppPhoneGap/screenshots/front.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsAppPhoneGap/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>                                                                                                 
+<br>
+
+
 > ### Contacts Directory
 <p align="justify">This is a Contacts Directory App , where user gets to enter Contacts information, the name/mobile number, along with other details. User should be able edit, display and delete Contacts.</p>
 
