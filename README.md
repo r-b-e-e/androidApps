@@ -118,6 +118,20 @@ alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
 <br><br>
 
 
+> ### GitHub Rails Open Issues
+<p align="justify">This Android app is used to display GitHub issues and their comments for a specific repository. The app uses GitHub web api to retrieve all open issues associated with the Rails organization’s rails repository.</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/1.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/1.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/2.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/2.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
+
+
+> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/GitHubRailsOpenIssues/APKfile)
+<br>
 
 
 > ### MessagingAppParse
