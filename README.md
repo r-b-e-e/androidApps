@@ -169,9 +169,15 @@ alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a>
 ***Work in progress***
 <br><br>
 
-> ### SmartSafe
-<p align="justify">This app is used to track the exact location of a person using Google Maps API in case of emergency. Firebase web service is used for storing the person's location for 24 hours. This app also has the feature to play back in the Google Map the list of all visited location</p>
-***Work in progress***
+> ### SmartSafe (***Work in progress***)
+<p align="justify">The purpose of the project is to track the exact location of a person using Google Maps API in case of emergency. Firebase web service is used for storing the person's location for 24 hours. This app also has the feature to play back in the Google Map the list of all visited location. In this project two Android apps were developed. One named "SmartSafeBeacon" to send the GPS location to the Firebase Web service. Other named "SmartSafeMonitor" to retrieve the GPS location and uses Google Maps API to visualize the exact location in Maps.</p>
+
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/screenshots.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/screenshots.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/front.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
+
 <br><br>
 
 > ### SmartSafePubNub
