@@ -107,6 +107,18 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Distance%20Conversion%20Calculator/APKfile)
 <br>
 
+> ### Flight-o-Pedia using QPXExpress API (***Work in progress***)
+<p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops. This app uses google's QPX Express API to get the current flight details and place a flag on a flight to track it. The Complexity of this project is handling the complex JSON file from the API.</p>
+<a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" 
+alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" target="_blank">
+<img src="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" 
+alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a>
+
+<br><br>
+
+
+
 
 > ### MessagingAppParse
 <p align="justify">The app enables users to share public messages with other users using parse web services. The app also has sign up/sign in/logout options.</p>
@@ -163,11 +175,6 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a> 
 > ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Password%20Generator/APKfile)
 <br>
-
-> ### QPXExpress
-<p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops. This app uses google's QPX Express API to get the current flight details and place a flag on a flight to track it. The Complexity of this project is handling the complex JSON file from the API.</p>
-***Work in progress***
-<br><br>
 
 > ### SmartSafe (***Work in progress***)
 <p align="justify">The purpose of the project is to track the exact location of a person using Google Maps API in case of emergency. Firebase web service is used for storing the person's location for 24 hours. This app also has the feature to play back in the Google Map the list of all visited location. In this project two Android apps were developed. One named "SmartSafeBeacon" to send the GPS location to the Firebase Web service. Other named "SmartSafeMonitor" to retrieve the GPS location and uses Google Maps API to visualize the exact location in Maps.</p>
