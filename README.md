@@ -48,9 +48,10 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>           
 <img src="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Play.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                   <a href="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Result.png" target="_blank">
 <img src="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Result.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                                                    
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>           
+
 > ##### [YOUTUBE LINK - DEMO](http://www.youtube.com/watch?feature=player_embedded&v=qoCo5G-JlwE)
-> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/APK File)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/ConnectFour/APK%20File)
 <br>
 
 
@@ -183,10 +184,12 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 > ### Password Generator
 <p align="justify">This app is used to generate passwords using Android concurrency models such as Threads and AsyncTask</p>
+
 > ##### SCREENSHOTS (Click to Maximize)
 <a href="https://github.com/r-b-e-e/androidApps/blob/master/Password%20Generator/Screenshots/pass_gen.png" target="_blank">
 <img src="https://github.com/r-b-e-e/androidApps/blob/master/Password%20Generator/Screenshots/pass_gen.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a> 
+
 > ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/Password%20Generator/APKfile)
 <br>
 
@@ -203,7 +206,9 @@ alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
 
 > ### SmartSafePubNub
 <p align="justify">Safety is always a concern in our society. With the help of technology we can help people and find a way to keep our loved ones safe by tracking them at any time. Developing a mobile application that publishes the current location of a person to another device that subscribes for a response (location information). The phone GPS or mobile network is used to retrieve the Geo-location. With such an app, the person’s current location can be visualized in maps in any device. My App needs to be installed in two or more devices. One device will get the current location and publish the geo-location information (latitude and longitude) to the PubNub channel. Other devices which subscribes the channel will receive this geo-location in real-time and pass it to the Google API which in-turn returns the exact location of the person to the Map Activity. </p>
+
 > ##### SCREENSHOTS (Click to Maximize)
+
 
 <a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/front.png" target="_blank">
 <img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/front.png" 
@@ -216,6 +221,7 @@ alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/location_unsubscribed.png" target="_blank">
 <img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/location_unsubscribed.png" 
 alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
+
 
 > ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/SmartSafePubSub/APKfile)
 <br>
