@@ -1,4 +1,4 @@
-# Android-Apps
+# androidApps
 This repository contains all the android apps created/contributed by Rakesh Balan Lingakumar.
 
 > ### Album
@@ -6,11 +6,11 @@ This repository contains all the android apps created/contributed by Rakesh Bala
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Album/Screenshots/album_.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Album/Screenshots/album_.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Album/Screenshots/album_.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Album/Screenshots/album_.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Album/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/Album/APKfile)
 <br>
 
 > ### Blood Alcohol Content (BAC) Level Calculator
@@ -18,11 +18,11 @@ alt="IMAGE ALT TEXT HERE" width="500" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/BACCalculator/Screenshots/ui.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/BACCalculator/Screenshots/ui.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/BACCalculator/Screenshots/ui.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/BACCalculator/Screenshots/ui.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/BACCalculator/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/BACCalculator/APKfile)
 <br>
 
 > ### BBCTechnologyNews
@@ -30,8 +30,8 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/BBCTechnologyNews/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/BBCTechnologyNews/screenshots/front.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/BBCTechnologyNews/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/BBCTechnologyNews/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 <br>
@@ -42,15 +42,15 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                    <a href="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_Play.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_Play.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                   <a href="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_Result.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_Result.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_MainPage.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_MainPage.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                    <a href="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Play.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Play.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                   <a href="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Result.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/screenshots/Game_Result.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>                                                                                                    
 > ##### [YOUTUBE LINK - DEMO](http://www.youtube.com/watch?feature=player_embedded&v=qoCo5G-JlwE)
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/APK File)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/blob/master/ConnectFour/APK File)
 <br>
 
 
@@ -62,8 +62,8 @@ Contacts database.</p>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsAppPhoneGap/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsAppPhoneGap/screenshots/front.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/ContactsAppPhoneGap/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ContactsAppPhoneGap/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>                                                                                                 
 <br>
 
@@ -74,19 +74,19 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/createcontact.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/createcontact.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/editcontact.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/editcontact.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/deletecontact.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/deletecontact.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/viewcontacts.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ContactsDirectory/Screenshots/viewcontacts.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> <a href="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/createcontact.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/createcontact.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/editcontact.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/editcontact.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/deletecontact.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/deletecontact.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/viewcontacts.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/ContactsDirectory/Screenshots/viewcontacts.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/ContactsDirectory/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/ContactsDirectory/APKfile)
 <br>
 
 
@@ -98,21 +98,21 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/button.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/button.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/radiobutton.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Distance%20Conversion%20Calculator/Screenshots/radiobutton.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Distance%20Conversion%20Calculator/Screenshots/button.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Distance%20Conversion%20Calculator/Screenshots/button.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> <a href="https://github.com/r-b-e-e/androidApps/blob/master/Distance%20Conversion%20Calculator/Screenshots/radiobutton.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Distance%20Conversion%20Calculator/Screenshots/radiobutton.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> 
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Distance%20Conversion%20Calculator/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/Distance%20Conversion%20Calculator/APKfile)
 <br>
 
 > ### Flight-o-Pedia using QPXExpress API (***Work in progress***)
 <p align="justify">The purpose of this app is to track the cost of the flights and notifies when the cost drops. This app uses google's QPX Express API to get the current flight details and place a flag on a flight to track it. The Complexity of this project is handling the complex JSON file from the API.</p>
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Flight-o-PediaQPXExpress/screenshots/1.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Flight-o-PediaQPXExpress/screenshots/2.png" 
 alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
 
 <br><br>
@@ -123,14 +123,14 @@ alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/1.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/1.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/2.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/GitHubRailsOpenIssues/screenshots/2.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/GitHubRailsOpenIssues/screenshots/1.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/GitHubRailsOpenIssues/screenshots/1.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/GitHubRailsOpenIssues/screenshots/2.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/GitHubRailsOpenIssues/screenshots/2.png" 
 alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
 
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/GitHubRailsOpenIssues/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/GitHubRailsOpenIssues/APKfile)
 <br>
 
 
@@ -139,13 +139,13 @@ alt="IMAGE ALT TEXT HERE" width="150" height="250" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/back.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParse/screenshots/back.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParse/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParse/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParse/screenshots/back.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParse/screenshots/back.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/MessagingAppParse/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/MessagingAppParse/APKfile)
 <br>
 
 
@@ -154,13 +154,13 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/back.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/MessagingAppParseFragments/screenshots/back.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParseFragments/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParseFragments/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParseFragments/screenshots/back.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/MessagingAppParseFragments/screenshots/back.png" 
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/MessagingAppParseFragments/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/MessagingAppParseFragments/APKfile)
 <br>
 
 
@@ -170,13 +170,13 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/pics.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/pics.png" 
-alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/OpenWeatherMap/screenshots/xml_file.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/OpenWeatherMap/screenshots/pics.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/OpenWeatherMap/screenshots/pics.png" 
+alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a> <a href="https://github.com/r-b-e-e/androidApps/blob/master/OpenWeatherMap/screenshots/xml_file.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/OpenWeatherMap/screenshots/xml_file.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/OpenWeatherMap/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/OpenWeatherMap/APKfile)
 <br>
 
 
@@ -184,19 +184,19 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 > ### Password Generator
 <p align="justify">This app is used to generate passwords using Android concurrency models such as Threads and AsyncTask</p>
 > ##### SCREENSHOTS (Click to Maximize)
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Password%20Generator/Screenshots/pass_gen.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Password%20Generator/Screenshots/pass_gen.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Password%20Generator/Screenshots/pass_gen.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Password%20Generator/Screenshots/pass_gen.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="200" border="10" /></a> 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Password%20Generator/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/Password%20Generator/APKfile)
 <br>
 
 > ### SmartSafe (***Work in progress***)
 <p align="justify">The purpose of the project is to track the exact location of a person using Google Maps API in case of emergency. Firebase web service is used for storing the person's location for 24 hours. This app also has the feature to play back in the Google Map the list of all visited location. In this project two Android apps were developed. One named "SmartSafeBeacon" to send the GPS location to the Firebase Web service. Other named "SmartSafeMonitor" to retrieve the GPS location and uses Google Maps API to visualize the exact location in Maps.</p>
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/screenshots.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/screenshots.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafe/screenshots/front.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafe/screenshots/screenshots.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafe/screenshots/screenshots.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafe/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafe/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
 
 <br><br>
@@ -205,19 +205,19 @@ alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
 <p align="justify">Safety is always a concern in our society. With the help of technology we can help people and find a way to keep our loved ones safe by tracking them at any time. Developing a mobile application that publishes the current location of a person to another device that subscribes for a response (location information). The phone GPS or mobile network is used to retrieve the Geo-location. With such an app, the person’s current location can be visualized in maps in any device. My App needs to be installed in two or more devices. One device will get the current location and publish the geo-location information (latitude and longitude) to the PubNub channel. Other devices which subscribes the channel will receive this geo-location in real-time and pass it to the Google API which in-turn returns the exact location of the person to the Map Activity. </p>
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/location_published.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/location_published.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/picker_big.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/picker_big.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/picker.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/picker.png" 
-alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/location_unsubscribed.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/SmartSafePubSub/screenshots/location_unsubscribed.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/location_published.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/location_published.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/picker_big.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/picker_big.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/picker.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/picker.png" 
+alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/location_unsubscribed.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/SmartSafePubSub/screenshots/location_unsubscribed.png" 
 alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/SmartSafePubSub/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/SmartSafePubSub/APKfile)
 <br>
 <br><br>
 
@@ -227,13 +227,13 @@ alt="IMAGE ALT TEXT HERE" width="150" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/font.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/font.png" 
-alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/back.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/TEDRadioHourPodcast/screenshots/back.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/TEDRadioHourPodcast/screenshots/font.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/TEDRadioHourPodcast/screenshots/font.png" 
+alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/TEDRadioHourPodcast/screenshots/back.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/TEDRadioHourPodcast/screenshots/back.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/TEDRadioHourPodcast/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/TEDRadioHourPodcast/APKfile)
 <br>
 
 
@@ -243,13 +243,13 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Time%20Difference%20Calculator/Screenshots/button.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Time%20Difference%20Calculator/Screenshots/radioButton.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Time%20Difference%20Calculator/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/Time%20Difference%20Calculator/APKfile)
 <br>
 
 
@@ -258,23 +258,23 @@ alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/front.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_1.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_1.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/create_1.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/create_1.png" 
 alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_2.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/create_2.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/create_2.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/create_2.png" 
 alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/display_ques.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/display_ques.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/display_ques.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/display_ques.png" 
 alt="IMAGE ALT TEXT HERE" width="320" height="200" border="10" /></a>
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/results.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/Trivia%20Quiz/screenshots/results.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/results.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/Trivia%20Quiz/screenshots/results.png" 
 alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/Trivia%20Quiz/apkfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/Trivia%20Quiz/apkfile)
 <br>
 
 
@@ -284,22 +284,22 @@ alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/signup.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/signup.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/facebooklogin.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/facebooklogin.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/twitterlogin.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/twitterlogin.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/profile.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/profile.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/album.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/album.png" 
-alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/inbox.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/UNConnect/Screenshots/inbox.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/signup.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/signup.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/facebooklogin.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/facebooklogin.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/twitterlogin.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/twitterlogin.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/profile.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/profile.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/album.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/album.png" 
+alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/inbox.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/UNConnect/Screenshots/inbox.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a>
 
 > ##### YOUTUBE LINK - [Profile/Message/PushNotification](http://www.youtube.com/watch?feature=player_embedded&v=M4q36_tuCEc) ....     [Login/SignUp](http://www.youtube.com/watch?feature=player_embedded&v=dFvOZHd0DQk)  ....   [Album](http://www.youtube.com/watch?feature=player_embedded&v=BWf_ux5Ulis)   .... [Privacy](http://www.youtube.com/watch?feature=player_embedded&v=I97qYFMnbV0)
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/UNConnect/APK%20file)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/UNConnect/APK%20file)
 <br>
 
 
@@ -315,12 +315,12 @@ Movies , iOS apps, etc. Main function in this app is parsing JSON. </p>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSApp/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSApp/screenshots/front.png" 
-alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSApp/screenshots/inside.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSApp/screenshots/inside.png" 
-alt="IMAGE ALT TEXT HERE" width="350" height="200" border="10" /></a><a href="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSApp/screenshots/back.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSApp/screenshots/back.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSApp/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSApp/screenshots/front.png" 
+alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a> <a href="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSApp/screenshots/inside.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSApp/screenshots/inside.png" 
+alt="IMAGE ALT TEXT HERE" width="350" height="200" border="10" /></a><a href="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSApp/screenshots/back.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSApp/screenshots/back.png" 
 alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
 
 <br>
@@ -330,11 +330,11 @@ alt="IMAGE ALT TEXT HERE" width="120" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSAppFavourites/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSAppFavourites/screenshots/front.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSAppFavourites/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSAppFavourites/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/iTuneFeedRSSAppFavourites/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/iTuneFeedRSSAppFavourites/APKfile)
 
 <br>
 
@@ -344,13 +344,10 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSAppListView/screenshots/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/iTuneFeedRSSAppListView/screenshots/front.png" 
+<a href="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSAppListView/screenshots/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/androidApps/blob/master/iTuneFeedRSSAppListView/screenshots/front.png" 
 alt="IMAGE ALT TEXT HERE" width="250" height="200" border="10" /></a> 
 
-> ##### [DOWNLOAD .apk](https://github.com/rlingaku/Android-Apps/tree/master/iTuneFeedRSSAppListView/APKfile)
+> ##### [DOWNLOAD .apk](https://github.com/r-b-e-e/androidApps/tree/master/iTuneFeedRSSAppListView/APKfile)
 
 <br>
-
-
-
